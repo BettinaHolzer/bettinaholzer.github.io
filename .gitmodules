@@ -1,0 +1,3 @@
+[submodule "bettinaholzer/themes/gruvhugo"]
+	path = bettinaholzer/themes/gruvhugo
+	url = https://gitlab.com/avron/gruvhugo.git
