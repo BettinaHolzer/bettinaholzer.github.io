@@ -26,10 +26,18 @@ defaultContentLanguageInSubdir = true
     languageName = "Français"
     languageCode = "fr"
     weight = 1
+    [[languages.fr.menu.main]]
+      identifier = "about"
+      name       = "A propos de BHC"
+      url        = "bhc"
   [languages.de]
     languageName = "Deutsch"
     languageCode = "de"
     weight = 2
+    [[languages.de.menu.main]]
+      identifier = "about"
+      name       = "Über BHC"
+      url        = "bhc"
 
 [taxonomies]
   tag      = "tags"
@@ -80,12 +88,6 @@ defaultContentLanguageInSubdir = true
   custom_css = []
   # add path to custom SCSS files here
   custom_scss = []
-
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about"
 
 #  [[menu.main]]
 #    identifier = "posts"
