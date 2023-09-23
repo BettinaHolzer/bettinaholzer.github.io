@@ -1,8 +1,7 @@
 # Hey, thanks for using my theme. If you like this theme,checkout my repo (https://gitlab.com/avron/gruvhugo"
 # and drop a star while you're at it. ;)
 baseurl = "https://bettinaholzer.github.io/"
-title = "Dr. med. Bettina Holzer"
-languageCode = "en-us"
+title = "Dr. med. Bettina Holzer fr"
 paginate = "10" # Number of posts per page
 #disqusShortname = "" # Enable comments by entering your Disqus shortname
 #googleAnalytics = "" # Enable Google Analytics by entering your tracking id
@@ -20,6 +19,18 @@ defaultExtension= "html"
 # hugo new command. "toml", "yaml", or "json"
 metaDataFormat= "yaml"
 
+DefaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.fr]
+    languageName = "Français"
+    languageCode = "fr"
+    weight = 1
+  [languages.de]
+    languageName = "Deutsch"
+    languageCode = "de"
+    weight = 2
+
 [taxonomies]
   tag      = "tags"
   category = "categories"
@@ -36,7 +47,7 @@ metaDataFormat= "yaml"
   img_title = "Thanks to Christina @ wocintechchat.com for this photo."
   icon = "img/logo.png"
   quote = "A nice quote that you like that describes the beautiful person you are."
-  description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Venenatis urna cursus eget nunc scelerisque viverra mauris in aliquam. Quis risus sed vulputate odio ut. Sed turpis tincidunt id aliquet risus feugiat in ante metus. Bibendum at varius vel pharetra vel turpis. Semper viverra nam libero justo laoreet sit amet cursus. Mauris a diam maecenas sed enim ut sem."
+  description = "Bettina's website"
   licenseUrl = ""
 
  # Social icons
