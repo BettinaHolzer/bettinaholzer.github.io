@@ -1,7 +1,7 @@
 # Hey, thanks for using my theme. If you like this theme,checkout my repo (https://gitlab.com/avron/gruvhugo"
 # and drop a star while you're at it. ;)
 baseurl = "https://bettinaholzer.github.io/"
-title = "Dr. med. Bettina Holzer fr"
+title = "B Holzer Consulting Sarl"
 paginate = "10" # Number of posts per page
 #disqusShortname = "" # Enable comments by entering your Disqus shortname
 #googleAnalytics = "" # Enable Google Analytics by entering your tracking id
@@ -27,17 +27,39 @@ defaultContentLanguageInSubdir = true
     languageCode = "fr"
     weight = 1
     [[languages.fr.menu.main]]
+      identifier = "services"
+      name       = "Services"
+      url        = "services"
+      weight     = 1
+    [[languages.fr.menu.main]]
+      identifier = "partenaires"
+      name       = "Partenaires"
+      url        = "partenaires"
+      weight     = 2
+    [[languages.fr.menu.main]]
       identifier = "about"
       name       = "A propos de BHC"
       url        = "bhc"
+      weight     = 3
   [languages.de]
     languageName = "Deutsch"
     languageCode = "de"
-    weight = 2
+    weight       = 2
+    [[languages.de.menu.main]]
+      identifier = "services"
+      name       = "Dienstleistungen"
+      url        = "dienstleistungen"
+      weight     = 1
+    [[languages.de.menu.main]]
+      identifier = "partner"
+      name       = "Partner"
+      url        = "partner"
+      weight     = 2
     [[languages.de.menu.main]]
       identifier = "about"
       name       = "Über BHC"
       url        = "bhc"
+      weight     = 3
 
 [taxonomies]
   tag      = "tags"
@@ -48,8 +70,8 @@ defaultContentLanguageInSubdir = true
   enabled = true
   enableKatex = true
   metaKeywords = "fast, hugo, theme, minimal, gruvbox"
-  headerTitle = "Dr. med. Bettina Holzer"
-  copyright = "© 2023 Dr. med. Bettina Holzer.  <a href=\"https://creativecommons.org/licenses/by/4.0/\">Some rights reserved</a>."
+  headerTitle = "B Holzer Consulting Sarl"
+  copyright = "© 2023 B Holzer Consulting Sarl.  <a href=\"https://creativecommons.org/licenses/by/4.0/\">Some rights reserved</a>."
   name = "bettina_holzer"
   img = "img/author.jpg"
   img_title = "Thanks to Christina @ wocintechchat.com for this photo."
