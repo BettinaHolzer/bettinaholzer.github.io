@@ -32,7 +32,7 @@ defaultContentLanguageInSubdir = true
       url        = "services"
       weight     = 1
     [[languages.fr.menu.main]]
-      identifier = "partenaires"
+      identifier = "partner"
       name       = "Partenaires"
       url        = "partenaires"
       weight     = 2
@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir = true
       url        = "dienstleistungen"
       weight     = 1
     [[languages.de.menu.main]]
-      identifier = "partner"
+      identifier = "partenaires"
       name       = "Partner"
       url        = "partner"
       weight     = 2
