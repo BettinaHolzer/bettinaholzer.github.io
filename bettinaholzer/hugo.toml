@@ -41,6 +41,11 @@ defaultContentLanguageInSubdir = true
       name       = "A propos de BHC"
       url        = "bhc"
       weight     = 3
+    [[languages.fr.menu.main]]
+      identifier = "contact"
+      name       = "Contact"
+      url        = "contact"
+      weight     = 4
   [languages.de]
     languageName = "Deutsch"
     languageCode = "de"
@@ -60,6 +65,11 @@ defaultContentLanguageInSubdir = true
       name       = "Über BHC"
       url        = "bhc"
       weight     = 3
+    [[languages.de.menu.main]]
+      identifier = "contact"
+      name       = "Kontakt"
+      url        = "kontakt"
+      weight     = 4
 
 [taxonomies]
   tag      = "tags"
