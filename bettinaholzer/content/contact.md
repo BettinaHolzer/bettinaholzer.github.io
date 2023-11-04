@@ -4,7 +4,9 @@ title = "Contact"
 description = "Contact"
 +++
 
-Contacter BHC:
+# Formulaire de contact
+
+Vous pouvez volontiers me contacter pour vos besoins de révisions, conseil ou coaching.
 
 {{< rawhtml >}}
 <form action="https://send.pageclip.co/JJJHTtQ45VuXS4hQhYm18AO9XIwnsyTt/contact-form" class="pageclip-form" method="post">
@@ -15,7 +17,7 @@ Contacter BHC:
   <input type="email" name="email" placeholder="Votre e-mail" required />
   <input type="text" name="subject" placeholder="Sujet de votre demande" required />
 
-  <textarea name="body" placeholder="Votre demande"></textarea>
+  <textarea name="body" placeholder="Votre demande" required></textarea>
 
   <!-- This button will have a loading spinner. Keep the inner span for best results. -->
   <button type="submit" class="pageclip-form__submit">
@@ -28,3 +30,8 @@ Contacter BHC:
   Pageclip.form(form, { successTemplate: '<span>Merci!</span>'});
 </script>
 {{< /rawhtml >}}
+
+## Adresse
+B Holzer Consulting
+Chemin de Villardiez 18
+1009 Pully

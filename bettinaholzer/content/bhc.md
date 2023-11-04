@@ -1,7 +1,7 @@
 +++
 slug = "bhc"
-title = "A propos de BHC"
-description = "A propos de BHC"
+title = "A propos"
+description = "A propos"
 +++
 
 Bettina a 20 ans d'expérience dans le système de santé suisse. En tant que spécialiste en anesthésiologie (Hôpital universitaire d’Hanovre), puis pendant plus de 10 ans en tant qu'anesthésiste indépendante, elle s'est tournée vers l'économie. Bettina est titulaire d'un diplôme en économie de la santé (EBS) et a travaillé comme experte tarifaire à la Fédération des médecins suisses (FMH).

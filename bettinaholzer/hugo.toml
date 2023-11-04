@@ -37,14 +37,14 @@ defaultContentLanguageInSubdir = true
       url        = "partenaires"
       weight     = 2
     [[languages.fr.menu.main]]
-      identifier = "about"
-      name       = "A propos de BHC"
-      url        = "bhc"
+      identifier = "references"
+      name       = "Références"
+      url        = "references"
       weight     = 3
     [[languages.fr.menu.main]]
-      identifier = "contact"
-      name       = "Contact"
-      url        = "contact"
+      identifier = "about"
+      name       = "A propos"
+      url        = "bhc"
       weight     = 4
   [languages.de]
     languageName = "Deutsch"
@@ -56,19 +56,19 @@ defaultContentLanguageInSubdir = true
       url        = "dienstleistungen"
       weight     = 1
     [[languages.de.menu.main]]
-      identifier = "partenaires"
+      identifier = "partner"
       name       = "Partner"
       url        = "partner"
       weight     = 2
     [[languages.de.menu.main]]
-      identifier = "about"
-      name       = "Über BHC"
-      url        = "bhc"
+      identifier = "references"
+      name       = "Referenzen"
+      url        = "referenzen"
       weight     = 3
     [[languages.de.menu.main]]
-      identifier = "contact"
-      name       = "Kontakt"
-      url        = "kontakt"
+      identifier = "about"
+      name       = "Über mich"
+      url        = "bhc"
       weight     = 4
 
 [taxonomies]
@@ -97,15 +97,15 @@ defaultContentLanguageInSubdir = true
 
   [[params.social]]
     name = "email"
-    url  = "mailto:mail@mail.com"
+    url  = "contact"
 
 #  [[params.social]]
 #    name = "gpg"
 #    url  = "https://keys.openpgp.org/"
 
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
+#  [[params.social]]
+#    name = "twitter"
+#    url  = "https://twitter.com/"
 
 #  [[params.social]]
 #    name = "github"

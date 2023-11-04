@@ -1,7 +1,7 @@
 +++
 slug = "bhc"
-title = "Über BHC"
-description = "Über BHC"
+title = "Über mich"
+description = "Über mich"
 +++
 
 Bettina hat 20 Jahre Erfahrung im Schweizer Gesundheitssystem. Als Fachärztin für Anästhesiologie (Medizinische Hochschule Hannover, MHH) und nach über 10 Jahren Tätigkeit als selbstständige Anästhesistin hat sie sich der Wirtschaft zugewandt. Bettina hat einen Abschluss in Gesundheitsökonomie (EBS) und war als Tarifexpertin bei der Verbindung der Schweizer Ärzteinnen und Ärzte (FMH) tätig.
