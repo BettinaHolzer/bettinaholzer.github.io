@@ -1,5 +1,5 @@
 +++
-slug = "Kontakt"
+slug = "kontakt"
 title = "Kontakt"
 description = "Kontakt"
 +++
@@ -27,11 +27,11 @@ Gerne können Sie mich anfragen zu den Themen Kodierevision, Beratung und Coachi
 <script src="https://s.pageclip.co/v1/pageclip.js" charset="utf-8"></script>
 <script>
   const form = document.querySelector('.pageclip-form');
-  Pageclip.form(form, { successTemplate: '<span>Danke!</span>'});
+  Pageclip.form(form, { successTemplate: '<span>Danke</span>'});
 </script>
 {{< /rawhtml >}}
 
 ## Adresse
-B Holzer Consulting
-Chemin de Villardiez 18
+B Holzer Consulting  
+Chemin de Villardiez 18  
 1009 Pully

@@ -46,6 +46,13 @@ defaultContentLanguageInSubdir = true
       name       = "A propos"
       url        = "bhc"
       weight     = 4
+    [[languages.fr.params.social]]
+      identifier = "contact"
+      name = "email"
+      url  = "contact"
+    [[languages.fr.params.social]]
+      name = "linkedin"
+      url  = "https://www.linkedin.com/in/dr-med-bettina-holzer-6489b4155/"
   [languages.de]
     languageName = "Deutsch"
     languageCode = "de"
@@ -70,6 +77,13 @@ defaultContentLanguageInSubdir = true
       name       = "Über mich"
       url        = "bhc"
       weight     = 4
+    [[languages.de.params.social]]
+      identifier = "contact"
+      name = "email"
+      url  = "kontakt"
+    [[languages.de.params.social]]
+      name = "linkedin"
+      url  = "https://www.linkedin.com/in/dr-med-bettina-holzer-6489b4155/"
 
 [taxonomies]
   tag      = "tags"
@@ -86,7 +100,7 @@ defaultContentLanguageInSubdir = true
   img = "img/author.jpg"
   img_title = "B Holzer Consulting Sarl"
   icon = "img/logo.png"
-  quote = ""
+  #quote = ""
   description = "B Holzer Consulting Sarl"
   licenseUrl = ""
 
@@ -95,9 +109,9 @@ defaultContentLanguageInSubdir = true
 #    name = "gitlab"
 #    url  = "https://gitlab.com/avron/gruvhugo"
 
-  [[params.social]]
-    name = "email"
-    url  = "contact"
+#  [[params.social]]
+#   name = "email"
+#    url  = "contact"
 
 #  [[params.social]]
 #    name = "gpg"
@@ -111,9 +125,9 @@ defaultContentLanguageInSubdir = true
 #    name = "github"
 #    url  = "https://github.com/"
 
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/dr-med-bettina-holzer-6489b4155/"
+#  [[params.social]]
+#    name = "linkedin"
+#    url  = "https://www.linkedin.com/in/dr-med-bettina-holzer-6489b4155/"
 
 [params.style]
   # add path to custom CSS files here

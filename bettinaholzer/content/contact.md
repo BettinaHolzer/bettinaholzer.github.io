@@ -27,11 +27,11 @@ Vous pouvez volontiers me contacter pour vos besoins de révisions, conseil ou c
 <script src="https://s.pageclip.co/v1/pageclip.js" charset="utf-8"></script>
 <script>
   const form = document.querySelector('.pageclip-form');
-  Pageclip.form(form, { successTemplate: '<span>Merci!</span>'});
+  Pageclip.form(form, { successTemplate: '<span>Merci</span>'});
 </script>
 {{< /rawhtml >}}
 
 ## Adresse
-B Holzer Consulting
-Chemin de Villardiez 18
+B Holzer Consulting  
+Chemin de Villardiez 18  
 1009 Pully
