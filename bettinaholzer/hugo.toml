@@ -82,12 +82,12 @@ defaultContentLanguageInSubdir = true
   metaKeywords = "fast, hugo, theme, minimal, gruvbox"
   headerTitle = "B Holzer Consulting Sarl"
   copyright = "© 2023 B Holzer Consulting Sarl.  <a href=\"https://creativecommons.org/licenses/by/4.0/\">Some rights reserved</a>."
-  name = "bettina_holzer"
+  name = "bhc_logo"
   img = "img/author.jpg"
-  img_title = "Thanks to Christina @ wocintechchat.com for this photo."
+  img_title = "B Holzer Consulting Sarl"
   icon = "img/logo.png"
-  quote = "A nice quote that you like that describes the beautiful person you are."
-  description = "Bettina's website"
+  quote = ""
+  description = "B Holzer Consulting Sarl"
   licenseUrl = ""
 
  # Social icons
