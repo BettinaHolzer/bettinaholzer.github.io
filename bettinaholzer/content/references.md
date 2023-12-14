@@ -8,3 +8,4 @@ description = "Références"
 ### CHUV - Centre Hospitalier Universitaire Vaudois
 ### Cliniques de réadaptation en suisse romande et suisse alémanique
 ### Association Plateforme REHA
+### Société Suisse de Médecine et de Soins Palliatifs
