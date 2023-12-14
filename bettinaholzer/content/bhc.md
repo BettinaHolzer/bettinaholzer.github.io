@@ -7,9 +7,9 @@ description = "A propos"
 {{< rawhtml >}}
 <div class="intro" style="align-items: center">
   <img class="image" src='/img/author.jpg'
-        title="Dr. Med. Bettina Holzer" width="200px"
-        alt="Dr. Med. Bettina Holzer"/>
-  <span class="intro-quote"><i>Dr. Med. Bettina Holzer</i></span>
+        title="Dr. med. Bettina Holzer" width="200px"
+        alt="Dr. med. Bettina Holzer"/>
+  <span class="intro-quote"><i>Dr. med. Bettina Holzer</i></span>
 </div>
 {{< /rawhtml >}}
 
