@@ -9,7 +9,8 @@ description = "Kontakt"
 Gerne können Sie mich anfragen zu den Themen Kodierevision, Beratung und Coaching.
 
 {{< rawhtml >}}
-<form action="https://send.pageclip.co/JJJHTtQ45VuXS4hQhYm18AO9XIwnsyTt/contact-form" class="pageclip-form" method="post">
+<form action="https://send.pageclip.co/B2TuPFO5F5JS4xjns2USxv7RyFXcmHAh" class="pageclip-form" method="post">
+<!-- <form action="https://send.pageclip.co/JJJHTtQ45VuXS4hQhYm18AO9XIwnsyTt/contact-form" class="pageclip-form" method="post"> -->
   <!-- Replace these inputs with your own. Make sure they have a "name" attribute! -->
 
   <!-- It looks like you are creating a contact form. These email and subject fields are special -->
@@ -18,6 +19,8 @@ Gerne können Sie mich anfragen zu den Themen Kodierevision, Beratung und Coachi
   <input type="text" name="subject" placeholder="Thema Ihrer Anfrage" required />
 
   <textarea name="body" placeholder="Ihre Anfrage" required></textarea>
+
+  <footnote>Mit dem Absenden dieses Formulars akzeptiere ich die Kontaktaufnahme durch B Holzer Consulting.</footnote>
 
   <!-- This button will have a loading spinner. Keep the inner span for best results. -->
   <button type="submit" class="pageclip-form__submit">

@@ -100,6 +100,7 @@ defaultContentLanguageInSubdir = true
   img = "img/author.jpg"
   img_title = "Dr. med. Bettina Holzer"
   icon = "img/bhc_logo.svg"
+  icon_dark = "img/bhc_logo_dark.svg"
   icon_title = "B Holzer Consulting Sarl"
   quote = "Dr. med. Bettina Holzer"
   description = "B Holzer Consulting Sarl"
