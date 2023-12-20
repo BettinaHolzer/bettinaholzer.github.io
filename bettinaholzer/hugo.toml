@@ -207,3 +207,6 @@ defaultContentLanguageInSubdir = true
     endLevel = 3
     ordered = false
     startLevel = 2
+
+[sitemap]
+  changeFreq = 'monthly'
