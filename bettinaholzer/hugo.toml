@@ -54,8 +54,11 @@ defaultContentLanguageInSubdir = true
       name = "linkedin"
       url  = "https://www.linkedin.com/in/dr-med-bettina-holzer-6489b4155/"
     [[languages.fr.params.impressum]]
-      name = "impressum"
+      name = "Impressum"
       url  = "impressum"
+    [[languages.fr.params.privacy]]
+      name = "Déclaration de confidentialité"
+      url  = "confidentialite"
   [languages.de]
     languageName = "Deutsch"
     languageCode = "de"
@@ -88,8 +91,11 @@ defaultContentLanguageInSubdir = true
       name = "linkedin"
       url  = "https://www.linkedin.com/in/dr-med-bettina-holzer-6489b4155/"
     [[languages.de.params.impressum]]
-      name = "impressum"
+      name = "Impressum"
       url  = "impressum"
+    [[languages.de.params.privacy]]
+      name = "Datenschutzerklärung"
+      url  = "datenschutz"
 
 [taxonomies]
   tag      = "tags"
